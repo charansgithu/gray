@@ -11,3 +11,9 @@ git log
 sudo su 
 git init
 sudo su
+ git commit 
+ls 
+git add origin https://github.com/charansgithu/gray.git
+sudo su 
+git branch
+sudo su 
